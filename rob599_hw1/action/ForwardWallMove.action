@@ -1,0 +1,5 @@
+float64 distance
+---
+bool result
+---
+float64 closest_point

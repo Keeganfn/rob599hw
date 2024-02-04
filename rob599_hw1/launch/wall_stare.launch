@@ -1,0 +1,7 @@
+<launch>
+
+	<node pkg="rob599_hw1" name="laser_control" type="laser_control.py"/>
+	<node pkg="rob599_hw1" name="laser_filter" type="laser_filter.py"/>
+	<node pkg="rob599_hw1" name="line_fit" type="line_fit.py"/>
+
+</launch>
